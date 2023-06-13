@@ -14,6 +14,7 @@ public class Main {
         dog.Eath();
         dog.Sleep();
         dog.makeSound();
+        System.out.println("el perro caza: " + dog.hunt());
 
         System.out.println("-------------CAT-------------");
         Cat cat = new Cat();
@@ -26,6 +27,10 @@ public class Main {
         cow.Eath();
         cow.Sleep();
         cow.makeSound();
+
+        int[] arreglo = {12,1232,123123};
+
+        arreglo.
 
 
 

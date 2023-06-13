@@ -20,4 +20,9 @@ public class Cat extends Animal {
     public void makeSound() {
         System.out.println("Meowww");
     }
+
+    @Override
+    public String hunt() {
+        return "mouse";
+    }
 }

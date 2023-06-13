@@ -6,5 +6,8 @@ public abstract class  Animal {
     public  abstract void Sleep() ;
     public abstract void makeSound() ;
 
+    public abstract String hunt() ;
+
+
 
 }

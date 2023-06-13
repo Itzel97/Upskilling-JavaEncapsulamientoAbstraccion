@@ -17,4 +17,9 @@ public class Cow extends Animal {
     public void makeSound() {
         System.out.println("Moooooo");
     }
+
+    @Override
+    public String hunt() {
+        return null;
+    }
 }

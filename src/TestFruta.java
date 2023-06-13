@@ -19,7 +19,7 @@ public class TestFruta {
 
     public static void main(String[] args) {
         Fruta fruta = new Fruta();
-        //fruta.getFrutas().add("Cereza"); // La lista frutas es privada, y esta siendo modificada desde otra clase.
+      //  fruta.getFrutas().add("Cereza"); // La lista frutas es privada, y esta siendo modificada desde otra clase.
         System.out.println(fruta.getFrutas());
     }
 }
